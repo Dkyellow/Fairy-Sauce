@@ -89,7 +89,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const loader = submitBtn.querySelector(".loader");
   const feedback = quoteForm.querySelector(".form-feedback");
 
-  const WHATSAPP_NUMBER = "263780298111"; // Format: CountryCode + Number (without +)
+  const WHATSAPP_NUMBER = "263772929339"; // Format: CountryCode + Number (without +)
 
   quoteForm.addEventListener("submit", (e) => {
     e.preventDefault();
