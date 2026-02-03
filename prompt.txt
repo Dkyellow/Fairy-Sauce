@@ -1,0 +1,185 @@
+Here’s a **clean, detailed prompt you can give directly to Cursor** to generate a **sleek, informative small-business website** in **HTML, CSS, and JavaScript** for *The Sauce Fairy*.
+This prompt is structured so Cursor understands layout, content, style, and behavior clearly.
+
+---
+
+### ✅ Cursor Prompt
+
+> Create a **modern, sleek, and highly informative website** for a small food & catering business called **“The Sauce Fairy 🌮”** using **pure HTML, CSS, and vanilla JavaScript** (no frameworks).
+>
+> ### 1. General Requirements
+>
+> * Use **clean semantic HTML**
+> * Responsive design (mobile-first)
+> * Smooth **subtle animations and micro-interactions**
+> * Modern, elegant food-brand aesthetic
+> * Optimized for readability and conversion
+> * Use placeholder images from an `/assets` folder where images are required
+>
+> ### 2. Design & Style
+>
+> * Color palette:
+>
+>   * Warm orange / sauce tones
+>   * Soft cream or white background
+>   * Dark text for contrast
+> * Typography:
+>
+>   * Elegant heading font (serif or decorative)
+>   * Clean sans-serif for body text
+> * Rounded cards, soft shadows, generous spacing
+> * Subtle hover effects on buttons and cards
+> * Smooth scroll behavior
+>
+> ### 3. Website Sections
+>
+> #### Header / Navigation
+>
+> * Logo on the left (use `/assets/logo.png`)
+> * Navigation links:
+>
+>   * Home
+>   * About
+>   * Services
+>   * Menu
+>   * Catering & Events
+>   * Contact
+> * Sticky navbar with scroll animation
+>
+> #### Hero Section
+>
+> * Big headline:
+>   **“Delicious Food Made Magical ✨”**
+> * Subheading describing food delivery & catering in Harare
+> * Call-to-action buttons:
+>
+>   * “View Menu”
+>   * “Order / Contact Us”
+> * Background image from `/assets/hero-food.jpg`
+> * Fade-in and slide-up animations
+>
+> #### About Section
+>
+> * Short story about *The Sauce Fairy*
+> * Emphasize:
+>
+>   * Budget-friendly services
+>   * Passion for food
+>   * Personal touch & quality
+>
+> #### Services Section (Cards Layout)
+>
+> Display cards for:
+>
+> * Private Dinner Parties
+> * Customized Meal Planning
+> * In-home Cooking
+> * Weddings
+> * Corporate Events
+> * Birthday Parties
+> * Anniversaries
+> * Holiday Parties
+>
+> Each card should:
+>
+> * Have an icon
+> * Animate on hover
+>
+> #### Weekly Menu Section
+>
+> * Clearly styled menu list with prices
+> * Highlight featured meals
+> * Sample menu items:
+>
+>   * Roasted butternut squash with roasted pork & English pasta salad
+>   * Rice & pork
+>   * Rice & beef
+>   * Rice & chicken
+>   * Rice & fish
+>   * Wings & fries
+>   * Bao burger with fries & drink
+>   * Tacos
+>   * ¼ & ½ chicken meals
+>   * Grilled salmon with béarnaise sauce
+> * Use cards or list layout
+> * Include subtle price emphasis
+>
+> #### Catering & Events Section
+>
+> * Explain catering services in detail
+> * Use images from `/assets/catering1.jpg`, `/assets/catering2.jpg`
+> * Include bullet points for benefits
+>
+> #### Delivery Information
+>
+> * Mention food delivery **all around Harare**
+> * Add delivery icon
+>
+> #### Quotation / Inquiry Section (Form)
+>
+> Create a **professional quotation form** with:
+>
+> * Full Name
+> * Phone Number
+> * Event Type (dropdown)
+> * Number of Guests
+> * Preferred Date
+> * Message / Special Requests
+> * Submit button with loading animation
+>
+> Use JavaScript for:
+>
+> * Basic validation
+> * Button loading state
+>
+> #### Contact Section
+>
+> Display clearly:
+>
+> * Phone numbers:
+>
+>   * **078029811**
+>   * **0778036508**
+> * WhatsApp button linking to:
+>   `https://chat.whatsapp.com/GwodsySdJ4TAjOSKGn7uFk?mode=ems_copy_t`
+> * Icons for phone and WhatsApp
+>
+> #### Footer
+>
+> * Business name
+> * Short tagline
+> * Social icons (placeholders)
+> * Copyright notice
+>
+> ### 4. JavaScript Features
+>
+> * Smooth scrolling
+> * Navbar scroll effect
+> * Form validation
+> * Simple reveal-on-scroll animations
+>
+> ### 5. File Structure
+>
+> ```
+> /index.html
+> /css/style.css
+> /js/main.js
+> /assets/
+>   logo.png
+>   hero-food.jpg
+>   catering1.jpg
+>   catering2.jpg
+> ```
+>
+> Ensure the final output is **production-ready**, clean, well-commented, and visually appealing.
+
+---
+
+If you want, I can also:
+
+* Refine this for **SEO**
+* Adapt it into a **one-page landing version**
+* Turn it into a **WhatsApp-order–focused conversion site**
+* Or generate **actual code** section by section
+
+Just tell me 👍
